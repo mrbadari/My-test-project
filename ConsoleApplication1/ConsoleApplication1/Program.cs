@@ -11,6 +11,10 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             int i = 100;
+            for (i = 0; i <= 100; i++)
+            {
+                Console.Write(i);
+            }
         }
     }
 }
